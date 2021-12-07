@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thej745
 - 👀 I’m interested in Data Science,Machine Learning,Networking
-- 🌱 I’m currently learning Computer Vision, Machine learning, Data Science and NEtwork Fundamentals
+- 🌱 I’m currently learning Computer Vision, Machine learning, Data Science and Network Fundamentals
 - 📫 You can reach me with my email:thejratheesh07@gmail.com
 
 <!---
