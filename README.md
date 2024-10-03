@@ -32,6 +32,5 @@ I’m currently pursuing a Master’s in Data and Computational Science at Unive
 
 📫 Let's Connect!
 
-    LinkedIn
-    GitHub
+    LinkedIn: linkedin.com/in/thej-ratheesh/
     Email: thejratheesh07@gmail.com
