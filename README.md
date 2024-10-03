@@ -32,8 +32,7 @@ I am currently pursuing my Master's in Data and Computational Science at Univers
 
 📫 Let's Connect!
 
-    LinkedIn
-    GitHub
+    LinkedIn:linkedin.com/in/thej-ratheesh/
     Email: thejratheesh07@gmail.com
 <!---
 Thej745/Thej745 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
